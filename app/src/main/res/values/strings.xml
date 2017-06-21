@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XML练习，短信备份还原</string>
+    <!-- 短信备份还原 xml -->
+    <string name="module_2">通讯管理</string>
+    <string name="backup_sms">备份短信</string>
+    <string name="recovery_sms">还原短信</string>
+    <string name="backup_success">备份短信成功!</string>
+    <string name="backup_error">备份短信失败!</string>
+    <string name="recovery_success">还原短信成功!</string>
+    <string name="recovery_error">还原短信失败!</string>
+    <string name="backup_tip">操作提示</string>
+    <string name="backup_loading">短信备份中...</string>
+
+    <string name="recovery_loading">还原短信中...</string>
+</resources>
